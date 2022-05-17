@@ -9,8 +9,10 @@ export default function Docs() {
       </Head>
 
       <div className="flex w-full min-h-screen justify-center items-center">
-        <h1 className="font-bold text-lg">Docs</h1>
-        <Button />
+        <div className="flex space-x-3 items-center">
+          <h1 className="font-bold text-lg">Docs</h1>
+          <Button />
+        </div>
       </div>
     </>
   );
