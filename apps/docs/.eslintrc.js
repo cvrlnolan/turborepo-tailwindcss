@@ -1,1 +1,1 @@
-module.exports = require("config/.eslintrc");
+module.exports = require('config/.eslintrc');

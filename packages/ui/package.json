@@ -5,9 +5,6 @@
   "types": "./index.tsx",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^17.0.37",
-    "@types/react-dom": "^17.0.11",
-    "tsconfig": "*",
-    "typescript": "^4.5.3"
+    "tsconfig": "*"
   }
 }
