@@ -8,7 +8,7 @@
     "test": "vitest run",
     "coverage": "vitest run --coverage"
   },
-  "devDependencies": {
+  "dependencies": {
     "tsconfig": "*",
     "shared-lib": "*"
   }
