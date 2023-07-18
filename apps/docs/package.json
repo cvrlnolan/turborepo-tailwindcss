@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "config": "*",
+    "shared-lib": "*",
     "tsconfig": "*",
-    "ui": "*",
-    "shared-lib": "*"
+    "ui": "*"
   }
 }
