@@ -16,8 +16,8 @@ git clone https://github.com/cvrlnolan/turborepo-tailwindcss.git
 
 ## Apps & Packages
 
-- `apps/docs`: a sample documentation [Next.js]() app
-- `apps/web`: a sample web [Next.js]() app
+- `apps/docs`: a sample documentation [Next.js](https://nextjs.org/docs) app
+- `apps/web`: a sample web [Next.js](https://nextjs.org/docs) app
 - `packages/ui`: a stub React component library shared by both `web` and `docs` applications
 - `packages/config`: shared `tailwindcss`, `eslint` configurations (includes `eslint-config-next`, `eslint-config-prettier`, `eslint-plugin-prettier` etc..)
 - `packages/tsconfig`: `tsconfig.json`s which can be used by extending them throughout the monorepo
