@@ -21,17 +21,17 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "commander": "^10.0.0",
+    "config": "*",
     "lucide-react": "^0.261.0",
     "next": "^13.4.10",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "shared-lib": "*",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.6",
-    "config": "*",
     "tsconfig": "*",
-    "ui": "*",
-    "shared-lib": "*"
+    "ui": "*"
   },
   "devDependencies": {
     "@testing-library/react": "^14.0.0",
