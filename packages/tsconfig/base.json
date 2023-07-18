@@ -13,7 +13,8 @@
     "noUnusedParameters": false,
     "preserveWatchOutput": true,
     "skipLibCheck": true,
-    "strict": true
+    "strict": true,
+    "types": ["vitest/globals"]
   },
   "exclude": ["node_modules"]
 }

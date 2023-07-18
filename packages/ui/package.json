@@ -4,6 +4,10 @@
   "main": "./index.ts",
   "types": "./index.ts",
   "license": "MIT",
+  "scripts": {
+    "test": "vitest run",
+    "coverage": "vitest run --coverage"
+  },
   "devDependencies": {
     "tsconfig": "*",
     "shared-lib": "*"
