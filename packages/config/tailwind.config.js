@@ -8,7 +8,7 @@ module.exports = {
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-    './packages/**/*.{ts,tsx}',
+    '../../packages/ui/**/*.{js,ts,jsx,tsx}', // Add the ui package
   ],
   theme: {
     screens: {
