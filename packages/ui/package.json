@@ -5,6 +5,7 @@
   "types": "./index.tsx",
   "license": "MIT",
   "devDependencies": {
-    "tsconfig": "*"
+    "tsconfig": "*",
+    "shared-lib": "*"
   }
 }

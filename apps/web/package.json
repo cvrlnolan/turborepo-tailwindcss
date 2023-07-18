@@ -11,6 +11,7 @@
   "devDependencies": {
     "config": "*",
     "tsconfig": "*",
-    "ui": "*"
+    "ui": "*",
+    "shared-lib": "*"
   }
 }
