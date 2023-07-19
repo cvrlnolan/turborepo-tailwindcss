@@ -17,7 +17,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang='en' suppressHydrationWarning>
       <body className={inter.className}>
         <ThemeProvider attribute='class' defaultTheme='system' enableSystem>
-          <main className='container flex min-h-[70vh] w-full flex-col overflow-hidden p-4'>
+          <main className='flex min-h-[70vh] w-full flex-col overflow-hidden p-4 md:container'>
             <div className='flex w-full justify-end'>
               <ModeToggle />
             </div>
